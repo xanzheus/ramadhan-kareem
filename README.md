@@ -1,5 +1,5 @@
 # Ramadhan Kareem
-Islamic Bit adalah website yang menyediakan kebutuhan islami bagi semua orang.
+Ramadhan Kareem adalah website yang menyediakan kebutuhan islami bagi semua orang.
 
 Fitur:
 * Al-Quran
