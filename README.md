@@ -1,4 +1,4 @@
-# Islamic Bit
+# Ramadhan Kareem
 Islamic Bit adalah website yang menyediakan kebutuhan islami bagi semua orang.
 
 Fitur:
@@ -13,4 +13,4 @@ Fitur:
 * Jadwal Waktu Sholat Indonesia
 * Quotes Islami
 
-Visit Website: https://islamic-bit.netlify.app/
+Visit Website: https://ramadhan-kareem.vercel.app/
